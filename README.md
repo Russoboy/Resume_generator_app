@@ -1,3 +1,10 @@
+# INSTRUCTION
+Set up tailwind via vite by reading ---> https://v3.tailwindcss.com/docs/installation 
+After install Axios and react-router
+
+Type NPM in your vscode terminal
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
